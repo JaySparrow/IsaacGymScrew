@@ -1,0 +1,11 @@
+numpy==1.21
+matplotlib
+tqdm
+pytorch3d
+trimesh
+pyrender
+open3d
+hyperopt
+deepdish
+efficientnet_pytorch
+warmup_scheduler
